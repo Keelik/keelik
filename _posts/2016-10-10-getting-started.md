@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "Ingel Mättas"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: ingel2.heic
 ---
 
 # Millennial
